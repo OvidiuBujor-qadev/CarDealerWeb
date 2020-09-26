@@ -45,6 +45,7 @@ namespace CarDealerApi
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
+
             });
         }
     }
